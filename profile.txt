@@ -1,0 +1,11 @@
+My name is Dev Patel.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a full stack software engineer specializing in artificial intelligence.
+I'm especially interested in machine learning and infrastructure as code.
+
+I have experience with C++, Javascript, AWS, HTML, CSS, and Linux.
+I'm currently building projects on NextWork to grow my hands-on skills.
+
+For fun and on my free time, I enjoy playing basketball, lifting, and snowboarding.
+A fun fact about me is that I can play the drums.
